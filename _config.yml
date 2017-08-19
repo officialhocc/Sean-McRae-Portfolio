@@ -5,14 +5,14 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Sean McRae # Your name will go here
+  title: Sean McRae  # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Certified Penetration Tester & Digital Forensics Examiner</h1>
      <p>ACE, AME, OSCP ...</p>
-     
+
 
 
   # Icons
